@@ -1,0 +1,7 @@
+.parent{
+width: 600px;
+overflow: hidden;
+margin: 20px auto;
+padding: 20px;
+background: #ccc;
+}
